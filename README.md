@@ -1,5 +1,7 @@
 ### PERCEPTRON - SCILAB 6.1.0
 
+#### Algoritmo desenvolvido no decorrer da disciplina de Inteligência Computacional do curso de Engenharia de Computação (UFC)
+
 Crie um neurônio Perceptron para classificar amostras em duas classes. O programa construído deverá:
 
 1. Pedir ao usuário para digitar a taxa de aprendizado η, a quantidade máxima de épocas e os pontos (x1, x2) com as respectivas classes (Classes 0 ou 1).
